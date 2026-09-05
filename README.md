@@ -13,3 +13,4 @@ A modern responsive landing page showcasing how cryptocurrency works, featuring 
 
 ## 🚀 Live Demo
 Check out the live website here: [Demo](https://cryptolandingwebpage.netlify.app)
+![GitHub Stats](https://vercel.app)
