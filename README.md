@@ -12,4 +12,4 @@ A modern responsive landing page showcasing how cryptocurrency works, featuring 
 * CSS3 (Futuristic and Responsive Dark Theme)
 
 ## 🚀 Live Demo
-Check out the live website here: [Demo](https://cryptolandingwebpage.netlify.app)
+Check out the live website here: [Demo](https://p374r.github.io/CryptroLandingPage/)
